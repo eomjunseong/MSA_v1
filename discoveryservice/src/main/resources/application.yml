@@ -11,5 +11,5 @@ spring:
 
 eureka:
   client:
-    register-with-eureka: false
+    register-with-eureka: false #유레카 등록 X
     fetch-registry: false
